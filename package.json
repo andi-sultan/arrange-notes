@@ -1,5 +1,5 @@
 {
-  "name": "webpack-template",
+  "name": "arrange-notes",
   "version": "1.0.0",
   "description": "",
   "scripts": {
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/andi-sultan/webpack-template.git"
+    "url": "git+https://github.com/andi-sultan/arrange-notes.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/andi-sultan/webpack-template/issues"
+    "url": "https://github.com/andi-sultan/arrange-notes/issues"
   },
-  "homepage": "https://github.com/andi-sultan/webpack-template#readme",
+  "homepage": "https://github.com/andi-sultan/arrange-notes#readme",
   "devDependencies": {
     "copy-webpack-plugin": "^11.0.0",
     "css-loader": "^6.7.3",
